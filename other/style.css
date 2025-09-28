@@ -1,0 +1,63 @@
+.heead {
+    background-color: hwb(244 1% 81%);
+    color: hwb(300 96% 3%);
+    font-family: "Edu NSN ACT Cursive";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.bu {
+    background-color: rgb(38, 2, 51) ;
+    color: aliceblue;
+    font-family: "Edu NSN ACT Cursive";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.index-board {
+   max-width: 777px;
+    margin: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid plum;    
+}
+
+.play-all {
+    background-color: #29031d ;
+    color: aliceblue;
+    font-family: "Edu NSN ACT Cursive";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.case-all {
+    background-color: hsl(245, 97%, 14%) ;
+    color: aliceblue;
+    font-family: "Edu NSN ACT Cursive";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.mobile-all {
+    background-color: hwb(0 0% 82%) ;
+    color: aliceblue;
+    font-family: "Edu NSN ACT Cursive";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.nout-all {
+    background-color: hwb(144 0% 85%) ;
+    color: aliceblue;
+    font-family: "Edu NSN ACT Cursive";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.tv {
+    background-color: hwb(190 1% 85%) ;
+    color: aliceblue;
+    font-family: "Edu NSN ACT Cursive";
+    font-weight: bold;
+    font-style: normal;
+}
