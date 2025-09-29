@@ -1,14 +1,14 @@
 .heead {
-    background-color: hwb(244 1% 81%);
-    color: hwb(300 96% 3%);
+    background-color: hwb(244 68% 2%);
+    color: lab(0.98% 3.61 -2.58);
     font-family: "Edu NSN ACT Cursive";
     font-weight: bold;
     font-style: normal;
 }
 
 .bu {
-    background-color: rgb(38, 2, 51) ;
-    color: aliceblue;
+    background-color: hwb(244 68% 2%) ;
+    color: #01070c;
     font-family: "Edu NSN ACT Cursive";
     font-weight: bold;
     font-style: normal;
@@ -23,40 +23,40 @@
 }
 
 .play-all {
-    background-color: #29031d ;
-    color: aliceblue;
+    background-color: hwb(244 68% 2%);
+    color: rgb(0, 1, 1);
     font-family: "Edu NSN ACT Cursive";
     font-weight: bold;
     font-style: normal;
 }
 
 .case-all {
-    background-color: hsl(245, 97%, 14%) ;
-    color: aliceblue;
+    background-color: hwb(244 68% 2%) ;
+    color: #000305;
     font-family: "Edu NSN ACT Cursive";
     font-weight: bold;
     font-style: normal;
 }
 
 .mobile-all {
-    background-color: hwb(0 0% 82%) ;
-    color: aliceblue;
+    background-color: hwb(244 68% 2%) ;
+    color: rgb(4, 9, 13);
     font-family: "Edu NSN ACT Cursive";
     font-weight: bold;
     font-style: normal;
 }
 
 .nout-all {
-    background-color: hwb(144 0% 85%) ;
-    color: aliceblue;
+    background-color: hwb(244 68% 2%) ;
+    color: rgb(2, 5, 8);
     font-family: "Edu NSN ACT Cursive";
     font-weight: bold;
     font-style: normal;
 }
 
 .tv {
-    background-color: hwb(190 1% 85%) ;
-    color: aliceblue;
+    background-color: hwb(244 68% 2%);
+    color: rgb(1, 4, 7);
     font-family: "Edu NSN ACT Cursive";
     font-weight: bold;
     font-style: normal;
